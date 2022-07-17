@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "40/tnBh5BG5DkJQbpZHtIrVs4ViK25MSOgOb2yIWMAnoZqqnoS9Chr4Ad//BYzyuwmjZ5+ApO8MxotqkwoX0tQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Kamron Sightler\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\CollateralCascade\\CollateralCascade.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package tModLoader.CodeAssist. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, Package source 1",
+      "libraryId": "tModLoader.CodeAssist",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

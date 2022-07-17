@@ -1,0 +1,3 @@
+displayName = Collateral Cascade
+author = Ditzy
+version = 0.1
